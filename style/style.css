@@ -38,7 +38,7 @@ body {
 }
 
 .one {
-  font-size: 6rem;
+  font-size: 5rem;
 }
 
 .one > img {
@@ -49,12 +49,12 @@ body {
 }
 
 .two {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-weight: lighter;
 }
 
 .three {
-  font-size: 4.5rem;
+  font-size: 3rem;
 }
 
 .four .text-box {
@@ -86,7 +86,7 @@ body {
 }
 
 .five p {
-  font-size: 3rem;
+  font-size: 2rem;
   position: absolute;
   left: 0;
   right: 0;
@@ -99,7 +99,7 @@ body {
 }
 
 .five .idea-5 {
-  font-size: 6rem;
+  font-size: 4rem;
 }
 
 .idea-5 span,
@@ -109,7 +109,7 @@ body {
 }
 
 .idea-6 span {
-  font-size: 22.5rem;
+  font-size: 15rem;
 }
 
 .six {
@@ -131,7 +131,7 @@ body {
 }
 
 .lydia-dp {
-  width: 450px; /* Adjust this value to your desired size */
+  width: 350px; /* Adjust this value to your desired size */
   height: auto; /* Maintains the aspect ratio */
   border: 3px solid #fff; /* Optional: Adds a border */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
